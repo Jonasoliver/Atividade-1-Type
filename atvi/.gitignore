@@ -1,0 +1,27 @@
+/js
+*.js
+.vscode/
+/node_modules/
+/node_modules/**
+
+# Ignorar a pasta de dependências
+node_modules/
+
+# Ignorar os arquivos de compilação do TypeScript
+dist/
+build/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração do IDE
+.vscode/
+.idea/
+
+# Ignorar arquivos temporários
+*.tmp
+
+
+
+
+
